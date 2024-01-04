@@ -1,4 +1,4 @@
-package SecondMidtermExercises.Ex3;
+package SecondMidtermExercises.Ex03;
 
 /**
  * Discounts

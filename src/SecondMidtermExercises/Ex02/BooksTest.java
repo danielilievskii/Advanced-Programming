@@ -1,4 +1,4 @@
-package SecondMidtermExercises.Ex2;
+package SecondMidtermExercises.Ex02;
 
 import java.util.ArrayList;
 import java.util.Comparator;

@@ -1,4 +1,4 @@
-package SecondMidtermExercises.Ex5;
+package SecondMidtermExercises.Ex05;
 
 import java.time.LocalDateTime;
 import java.util.*;

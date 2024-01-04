@@ -1,4 +1,4 @@
-package SecondMidtermExercises.Ex6;
+package SecondMidtermExercises.Ex06;
 
 import java.io.*;
 import java.util.*;

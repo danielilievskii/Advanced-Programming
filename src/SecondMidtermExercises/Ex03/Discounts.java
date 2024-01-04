@@ -1,4 +1,4 @@
-package SecondMidtermExercises.Ex3;
+package SecondMidtermExercises.Ex03;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
@@ -8,7 +8,6 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
 class Product {
     int price;

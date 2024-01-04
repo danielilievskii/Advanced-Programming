@@ -1,7 +1,6 @@
-package SecondMidtermExercises.Ex8;
+package SecondMidtermExercises.Ex08;
 import java.io.*;
 import java.util.*;
-import java.util.stream.Collectors;
 
 interface Shape {
     public abstract double getArea();
