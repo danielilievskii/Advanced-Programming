@@ -1,11 +1,9 @@
-package SecondMidtermExercises.Ex7;
+package SecondMidtermExercises.Ex07;
 
 import java.util.*;
 import java.util.stream.Collectors;
 
 import java.io.*;
-import java.util.*;
-import java.util.stream.Collectors;
 
 enum EmployeeType {
     HOURLY, FREELANCE
