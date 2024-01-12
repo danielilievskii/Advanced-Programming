@@ -53,7 +53,7 @@ class BlockContainer<T> {
                 .collect(Collectors.toCollection(ArrayList::new));
 
         this.elements = new ArrayList<Set<T>>();
-        allElements.forEach(this::add);
+        allElements.forEach(a -> add(a));
     }
 
     @Override
